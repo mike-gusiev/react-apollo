@@ -16,8 +16,8 @@ Frontend (Create React APP):
 4. `yarn start`
 
 
-#Admin tab:
+# Admin tab:
 ![admin tab](admin.png)
 
-#Customer tab:
+# Customer tab:
 ![customer tab](customer.png)

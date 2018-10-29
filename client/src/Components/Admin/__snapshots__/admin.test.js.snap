@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should component render correctly 1`] = `
+Array [
+  <h2>
+    Admin
+  </h2>,
+  <hr />,
+  <form
+    onSubmit={[Function]}
+  >
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="name"
+      >
+        Name of the product:
+      </label>
+      <input
+        className="form-control"
+        id="name"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="cat"
+      >
+        Category:
+      </label>
+      <input
+        className="form-control"
+        id="cat"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="brand"
+      >
+        Example select
+      </label>
+      <select
+        className="form-control"
+        id="brand"
+        onChange={[Function]}
+      >
+        <option
+          value="default"
+        >
+          Select brand
+        </option>
+        <option
+          disabled={true}
+        >
+          Loading
+        </option>
+      </select>
+    </div>
+    <div
+      className="form-group"
+    >
+      <button
+        className="btn btn-primary submit"
+        type="submit"
+      >
+        Add product
+      </button>
+    </div>
+  </form>,
+]
+`;

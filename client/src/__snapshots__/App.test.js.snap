@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component correctly 1`] = `
+<div
+  className="container app"
+>
+  <nav
+    className="nav"
+  >
+    <a
+      className="nav-link"
+      href="/admin"
+      onClick={[Function]}
+    >
+      Admin
+    </a>
+    <a
+      className="nav-link"
+      href="/customer"
+      onClick={[Function]}
+    >
+      Customer
+    </a>
+  </nav>
+  <h2>
+    Costumer
+  </h2>
+  <hr />
+  <ul
+    className="product-list"
+  />
+</div>
+`;
